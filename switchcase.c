@@ -7,6 +7,7 @@ switch(branch)
 	break;
 	case 2:
 	printf("aiml branch");
+	printf("aiml in test2");
 	break;
         
 	case 3:
